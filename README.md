@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding...
 - 💞️ I’m looking to collaborate on code analysis 
 - 📫 How to reach me honoriuc@gmail.com 
-- 😄 Pronouns: him
+- 😄 Pronouns: you, him, his
 - ⚡ Fun fact: ...
 
 <!---
